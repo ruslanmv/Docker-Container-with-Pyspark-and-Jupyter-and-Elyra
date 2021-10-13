@@ -1,6 +1,6 @@
 ## Docker Container with Pyspark and  Jupyter and Elyra
 
-*How to create Jupyter Notebook Docker Container with Pyspark*
+*How to create a Docker Container with Pyspark ready to work*
 
 ![](assets/images/posts/README/containers.gif)
 
