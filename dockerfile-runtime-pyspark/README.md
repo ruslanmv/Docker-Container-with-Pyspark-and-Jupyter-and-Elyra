@@ -23,7 +23,7 @@ Should none of these images meet your needs, you can utilize a custom container 
 
 ### Custom JupyterLab Elyra container images
 
-This repository has three containers **ready to go**:
+This repository has the following containers **ready to go**:
 
 **Container 1 : Pyspark 3.1.2 with Apache Hadoop 3.2:**
 
@@ -43,7 +43,7 @@ docker run  ruslanmv/pyspark-runtime:3.0.2
 
 The images are stored at the Docker Hub [here](https://hub.docker.com/repository/docker/ruslanmv/pyspark-elyra)
 
-**Packages installed:**
+**Packages preinstalled in Container 2:**
 
 
 
