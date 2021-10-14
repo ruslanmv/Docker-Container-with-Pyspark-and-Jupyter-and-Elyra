@@ -1,0 +1,4 @@
+findspark
+ibm-watson-machine-learning==1.0.45
+pyspark2pmml
+wget
