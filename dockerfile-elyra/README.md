@@ -45,7 +45,7 @@ PySpark users should additionally install the `pyspark2pmml`package, which provi
 **Could not install packages due to an EnvironmentError: [Errno 13] Permission denied:**
 
 You are trying to install the package to a system folder which you don't have permissions to write to.
-You have three options(use only one of them):
+You have two options(use only one of them):
 1-setup a virtual env to install the package **(recommended)**:
 
 ```
