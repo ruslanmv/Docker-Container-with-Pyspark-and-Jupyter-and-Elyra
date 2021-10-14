@@ -28,7 +28,11 @@ The images are stored at the Docker Hub [here](https://hub.docker.com/repository
 
 **Packages preinstalled:**
 
+The packages preinstalled in the container 1:
 
+- findspark
+
+The packages preinstalled in the container 2:
 
 - [ibm-watson-machine-learning](http://ibm-wml-api-pyclient.mybluemix.net/#id564)
 
@@ -37,6 +41,9 @@ The `ibm-watson-machine-learning` Python library allows you to work with IBM Wat
 - [pyspark2pmml](https://github.com/jpmml/pyspark2pmml)
 
 PySpark users should additionally install the `pyspark2pmml`package, which provides Python language wrappers for JPMML-SparkML public API classes and methods. 
+
+- findspark
+- wget
 
 
 
