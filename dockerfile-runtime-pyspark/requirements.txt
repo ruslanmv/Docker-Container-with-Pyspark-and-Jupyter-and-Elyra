@@ -1,0 +1,4 @@
+findspark
+ibm-watson-machine-learning
+pyspark2pmml
+wget
